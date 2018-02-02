@@ -1,2 +1,1 @@
-#volmer projects
-projekty volmera na git
+Rozne skrypty napisane dla malinki
