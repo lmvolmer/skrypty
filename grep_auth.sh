@@ -11,4 +11,4 @@ data2="'"$data"'"
 date > /var/www/vol/auth.log
 cat /var/log/auth.log | grep "$data" | grep sshd* >> /var/www/vol/auth.log
 chmod 644 /var/www/vol/auth.log
-
+#cos tam dodamy
