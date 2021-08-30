@@ -1,6 +1,7 @@
 #!/bin/bash
 # utilitymenu.sh - A sample shell script to display menus on screen
 # Store menu options selected by the user
+#dodana linia dla gita
 INPUT=/tmp/menu.sh.$$
 
 # Storage file for displaying cal and date command output
